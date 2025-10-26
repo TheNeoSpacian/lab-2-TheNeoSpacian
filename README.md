@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Ivan Alexis Maldonado Valencia
+- Matrícula: S25018135
+- Fecha: 25 de octubre de 2025
 
 ## 🎯 Objetivos
 
